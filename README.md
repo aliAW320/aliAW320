@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @aliAW320
 - 👀 I’m interested in programing , cloud and network
 - 🌱 I’m currently learning java
+- also i'm a C junior 
  you can massage ne in telegram @alinoroozi84
+
 ⚡Fun fact: i don't know what the hell i'm just doing
 
 <!---
